@@ -1,0 +1,112 @@
+body {}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    color: white;
+    width: 100px;
+    height: 80px;
+    background-color: black;
+    margin: 20px;
+}
+
+.app {}
+
+.item {
+    padding: 30px;
+    margin: 20px;
+    color: black;
+    height: 500px;
+    width: 200px;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.profile {
+    background-color: tan;
+}
+
+.webpage {
+    background-color: orange;
+}
+
+.messages {
+    background-color: lightgreen;
+}
+
+.friends {
+    background-color: pink;
+}
+
+.highlights {
+    background-color: lightblue;
+}
+
+.headline {
+    background-color: teal;
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.photo {
+    border: 10px ridge #00FFCC;
+    padding: 5px;
+    color: pink;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.video {
+    border: 8px double #E4A4EE;
+    padding: 6px;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.small {
+    height: 100px;
+    width: 150px;
+}
+
+.green-frame {
+    border: 5px ridge #00FFCC;
+    padding: 0px;
+}
+
+.pink-frame {
+    border: 5px double #E4A4EE;
+    padding: 0px;
+}
+
+.yellow-frame {
+    border: 5px outset #ffff66;
+    padding: 0px;
+}
+
+.purple-frame {
+    border: dashed purple 2px;
+    padding: 0px;
+}
+
+.orange-frame {
+    border: 5px inset orange;
+    padding: 0px;
+}
+
+.all {
+    border: 2px black solid;
+    margin: 5px;
+}
+
+.high {
+    margin:2px;
+}
+
+.Josefin{
+    font-family: 'Josefin Sans', sans-serif;
+}
